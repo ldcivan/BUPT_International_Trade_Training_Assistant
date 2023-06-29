@@ -1,0 +1,2 @@
+# BUPT_International_Trade_Training_Assistant
+基于python，针对北京邮电大学邮政管理专业国际贸易实训设计的辅助程序，帮助快速刷一些基础分
